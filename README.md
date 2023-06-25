@@ -1,2 +1,1 @@
-# postgresql-master-slave-replication
-postgresql-master-slave-replication-on-k8s
+[Kubernetes Practice - Setup a database master-slave replication with PostgreSQL](https://viblo.asia/p/kubernetes-practice-setup-a-database-master-slave-replication-with-postgresql-924lJB2mlPM)
