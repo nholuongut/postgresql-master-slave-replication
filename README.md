@@ -1,1 +1,1 @@
-[Kubernetes Practice - Setup a database master-slave replication with PostgreSQL](https://viblo.asia/p/kubernetes-practice-setup-a-database-master-slave-replication-with-postgresql-924lJB2mlPM)
+[Kubernetes Practice - Setup a database master-slave replication with PostgreSQL](https://github.com/nholuongut/postgresql-master-slave-replication)
