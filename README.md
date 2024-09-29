@@ -1,4 +1,13 @@
 [Kubernetes Practice - Setup a database master-slave replication with PostgreSQL]
+
+![](https://i.imgur.com/waxVImv.png)
+
+# Roadmaps are now interactive, you can click the nodes to read more about the topics.
+
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
+![](https://i.imgur.com/waxVImv.png)
+
 Introduction
 Hello everyone, welcome to the practice series on kubernetes. In this article, we will learn about how to deploy a database system in master-slave replication mode on kubernetes.
 
@@ -9,11 +18,17 @@ This is a database system that includes a master DB, and many slave replication 
 
 In an application, we usually only use one DB for both reading and writing. If the application is just a normal web application and has low traffic, using such a DB is enough to meet the requirements. But for applications with high traffic, using only one DB for both reading and writing will cause our application to not be able to meet all user accesses or our application will have very poor performance. Therefore, this master-slave replication DB system will help us increase the processing performance of the application a lot, by separating the data writing to be written to a DB called master, and when reading data, we will read from the DB read replicas => increase the performance and processing speed of the application.
 
-### [Contact an Author]
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.
